@@ -21,7 +21,6 @@ Stack:
 
 ----
 
-![Aristotle](http://images.gr-assets.com/authors/1390143800p2/2192.jpg)
 > “For the things we have to learn before we can do them, we learn by doing them.”
 
 ― Aristotle, The Nicomachean Ethics
